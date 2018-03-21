@@ -2,17 +2,18 @@
     <channel>
         <item>
             <title> ياعيوني</title>
-            <img>"https://image.freepik.com/free-vector/circle-made-of-music-instruments_23-2147509304.jpg"</img>
+            <imag img="https://image.freepik.com/free-vector/circle-made-of-music-instruments_23-2147509304.jpg"/>
             <enclosure url="http://s1.bagdady.com/songs_bagdady/akyl_mwsa_yaaywny.mp3"/>
         </item>
         <item>
             <title> يادنيا ضلمتيني(دويتو   نور الزين)</title>
-            <img>"https://image.freepik.com/free-vector/circle-made-of-music-instruments_23-2147509304.jpg"</img>
+            <imag img="https://image.freepik.com/free-vector/circle-made-of-music-instruments_23-2147509304.jpg"/>
             <enclosure url="http://s1.bagdady.com/songs_bagdady/ya_dnya_5lmtyny_2017.mp3"/>
+            
         </item>
         <item>
             <title> لايالولد</title>
-            <img>"https://image.freepik.com/free-vector/circle-made-of-music-instruments_23-2147509304.jpg"</img>
+            <imag img="https://image.freepik.com/free-vector/circle-made-of-music-instruments_23-2147509304.jpg"/>
             <enclosure url="http://s1.bagdady.com/songs_bagdady/akyl_mwsa_layalwld.mp3"/>
         </item>
 
